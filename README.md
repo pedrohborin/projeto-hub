@@ -52,11 +52,11 @@ um desses cards para abrir uma nova página contendo mais informações sobre o 
 tiver permissões suficientes, editar, excluir e restaurar qualquer projeto existente no banco de dados.
 
 ## Apresentação 
-Menu
-<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/home.png">
-<br>Realizando um agendamento
-<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/agendamento-passo2.png">
-<br>Lista de monitores
-<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/monitores.png">
-<br>Navegação de projetos
+### Menu
+<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/home.png"><br>&nbsp;<br>
+### Realizando um agendamento
+<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/agendamento-passo2.png"><br>&nbsp;<br>
+### Lista de monitores
+<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/monitores.png"><br>&nbsp;<br>
+### Navegação de projetos<br>
 <img src="https://raw.githubusercontent.com/Sharpw/projeto-hub/main/img/projetos.gif">
