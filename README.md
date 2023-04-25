@@ -50,3 +50,13 @@ as permissões suficientes.
 Na aba Projetos é apresentado ao usuário todos os projetos já criados em formato de cards, contendo título, imagens e resumo do projeto. O usuário poderá clicar em
 um desses cards para abrir uma nova página contendo mais informações sobre o Projeto incluíndo autores, orientadores e arquivos PDF. Também é possível, se o usuário
 tiver permissões suficientes, editar, excluir e restaurar qualquer projeto existente no banco de dados.
+
+## Apresentação 
+Menu
+<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/home.png">
+<br>Realizando um agendamento
+<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/agendamento-passo2.png">
+<br>Lista de monitores
+<img src="https://github.com/Sharpw/projeto-hub/blob/main/img/monitores.png">
+<br>Navegação de projetos
+<img src="https://raw.githubusercontent.com/Sharpw/projeto-hub/main/img/projetos.gif">
